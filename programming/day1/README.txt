@@ -4,4 +4,4 @@ Files:
 IIntPoint2D.java - An interface for a 2D point with integer coordinates
 Test.java        - A program to test an 2D point implementation
 
-IntPoint2D.java - day 1 homework
+IntPoint2D.java - day 1 homework, class that utilizes the IIntPoint2D interface and Test file
