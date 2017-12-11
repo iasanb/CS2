@@ -18,3 +18,6 @@ Merge sort uses recursion to achieve better time complexity than O(n^2). Merge s
 Files:
 ISort.java - An interface for sorter implementations
 Test.java  - Performance test that times sorting arrays of random values
+
+SelectSort.java - implements the ISort interface, sorts an array using selection sorting methods
+MergeSort.java - implements the ISort interface, sorts an array using merge sorting methods
