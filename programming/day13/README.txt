@@ -27,6 +27,7 @@ IStack.java - interface for a stack
 Node.java - functions of nodes in a graph, implements INode
 Queue.java - queue implementation of a list
 QueueCell.java - funtions of a node in a queue
-Searcher.java - finds if a path exists and returns a path based on a depth first or breadth first method call
+DepthFirstSearcher.java - finds if a path exists and returns a path based on a depth first , implements ISearcher interface
+BreadthFirstSearcher - finds if a path exists and returns a path based on a breadth first method call, implements ISearcher interface
 Stack.java - stack implementation of a list
 StackCell.java - node funtions of a stack
